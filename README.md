@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Rust<br>👯 I’m looking to collaborate on<br>rust as backend<br>🌱 I’m currently learning/improving<br>nodejs / DSA<br>💬 Ask me about<br>full stack in deep working of Nodejs<br>⚡ Fun fact<br>We are written in C
+🔭 I’m currently working on<br>NODE JS<br>👯 I’m looking to collaborate on<br>rust as backend<br>🌱 I’m currently learning/improving<br>nodejs / DSA<br>💬 Ask me about<br>full stack in deep working of Nodejs<br>⚡ Fun fact<br>We are written in C
 
 
 ## 🌐 Socials:
